@@ -2,7 +2,7 @@
 - **ScrennShot**:
 
 <<<<<<< Updated upstream
-     ![ScrennShot](https://github.com/abdalazeim/SMAGP/0.png)
+     ![ScrennShot](https://github.com/abdalazeim/SMAGP/0.PNG)
      
      
      
@@ -11,7 +11,7 @@
  - Thanks For Usage :)
  - Have A Nice Day,GoodBye :)
 =======
-     ![ScrennShot](https://github.com/abdalazeim/SMAGP/1.png)
+     ![ScrennShot](https://github.com/abdalazeim/SMAGP/1.PNG)
      
 
 
