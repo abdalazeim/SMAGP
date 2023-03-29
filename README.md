@@ -9,7 +9,7 @@
      ![ScrennShot](https://github.com/abdalazeim/SMAGP/blob/master/1.PNG)
      
      =======
-     ![ScrennShot](https://github.com/abdalazeim/SMAGP/blob/master/3.PNG)
+     ![ScrennShot](https://github.com/abdalazeim/SMAGP/blob/master/2.PNG)
      
 
 
